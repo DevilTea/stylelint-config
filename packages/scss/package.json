@@ -1,0 +1,22 @@
+{
+  "name": "@deviltea/stylelint-config-scss",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "DevilTea <ch19980814@gmail.com> (https://github.com/DevilTea/)",
+  "main": "index.js",
+  "peerDependencies": {
+    "stylelint": ">=14.0.0"
+  },
+  "dependencies": {
+    "postcss-html": "^1.3.0",
+    "postcss-scss": "^4.0.3",
+    "stylelint-config-hudochenkov": "^6.0.1",
+    "stylelint-config-recommended-scss": "^5.0.2",
+    "stylelint-config-recommended-vue": "^1.1.0",
+    "stylelint-config-sass-guidelines": "^9.0.1"
+  },
+  "devDependencies": {
+    "stylelint": "*"
+  }
+}
