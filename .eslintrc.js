@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['@deviltea/eslint-config-base'],
+  extends: ['@antfu/eslint-config-basic'],
 }
